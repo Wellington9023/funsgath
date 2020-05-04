@@ -4,7 +4,7 @@ shap.test.group() function can run shapiro.test for multi-variable by group. And
 # install
 ```
 library(devtools)
-install_github("Sherlockin/funsgath/uesfuns")
+install_github("Wellington9023/funsgath/usefuns")
 ```
 # ues
 ```
