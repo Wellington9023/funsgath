@@ -6,7 +6,7 @@ shap.test.group() function can run shapiro.test for multi-variable by group. And
 library(devtools)
 install_github("Wellington9023/funsgath/usefuns")
 ```
-# ues
+# usage
 ```
 library(usefuns)
 
