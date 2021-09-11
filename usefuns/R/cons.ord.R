@@ -5,8 +5,8 @@ cons.ord <- function(spe,#物种数据
                      hull=F,#按分组连接最外围的点
                      coord_fix=F,#固定坐标轴
                      alpha = 1,#点的透明度0-1
-                     alpha_el = 0.4#hull形状透明度
-                     vec_ext = 1#箭头长度倍数){
+                     alpha_el = 0.4,#hull形状透明度
+                     vec_ext = 1 #箭头长度倍数){
   theme_mk <- function(..., bg='transparent'){
     require(grid)
     theme_bw(...) +
