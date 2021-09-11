@@ -59,7 +59,7 @@ cons.ord <- function(spe,#物种数据
                        ptslab = F,
                        addsize = NA,
                        alpha = alpha,
-                       alpha_el = alpha_el，
+                       alpha_el = alpha_el,
                        vec_ext = 1)+
         labs(title = "CCA Plot") +
         geom_vline(aes(xintercept = 0), linetype = "dotted") +
@@ -86,7 +86,7 @@ cons.ord <- function(spe,#物种数据
                        ptslab = F,
                        addsize = NA,
                        alpha = alpha,
-                       alpha_el = alpha_el，
+                       alpha_el = alpha_el,
                        vec_ext = 1)+
         labs(title = "RDA Plot") +
         geom_vline(aes(xintercept = 0), linetype = "dotted") +
@@ -117,7 +117,7 @@ cons.ord <- function(spe,#物种数据
                        ptslab = F,
                        addsize = NA,
                        alpha = alpha,
-                       alpha_el = alpha_el，
+                       alpha_el = alpha_el,
                        vec_ext = 1)+
         labs(title = "CCA Plot") +
         geom_vline(aes(xintercept = 0), linetype = "dotted") +
@@ -144,7 +144,7 @@ cons.ord <- function(spe,#物种数据
                        ptslab = F,
                        addsize = NA,
                        alpha = alpha,
-                       alpha_el = alpha_el，
+                       alpha_el = alpha_el,
                        vec_ext = 1)+
         labs(title = "RDA Plot") +
         geom_vline(aes(xintercept = 0), linetype = "dotted") +
